@@ -49,7 +49,7 @@ title: "Mi Familia : Exploring Cuban Identity Across Borders"
 subtitle: ""
 
 # A longer description of your site (max 150 words). Helps search engines find you.
-description: "Digital archive that explores my family and out Cuban identity across borders"
+description: "Digital archive that explores my family and our Cuban identity across borders"
 
 # These credits show up in the includes/_footer.html
 # Main author of the website.
@@ -57,7 +57,7 @@ author: "MichelleDalmau"
 authorname : "Michelle Dalmau"
 
 # To change the photo on your homepage, open the assets folder in your Github repo, then open the img folder. Upload a photo there. Add only the name of the photo and its extension here. E.g. "alternate_logo.png")
-sitelogo: "site_logo.png"
+sitelogo: "site_logo.jpg"
 placeholderimg: "placeholder.png"
 
 # What year did you start up this community project?
