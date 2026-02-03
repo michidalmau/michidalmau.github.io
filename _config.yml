@@ -5,7 +5,7 @@
 # THEME. Leave Lines 4-6 alone.
 #---------------------
 remote_theme: kalanicraig/digitalarcplatform@v1.0.1
-repository: 'michidalmau/michidalmau.github.io' # change this to your repository name
+repository: 'michidalmau/michidalmau' # change this to your repository name
 
 ##############################################
 # WHAT IS ALL THIS STUFF?
