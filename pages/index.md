@@ -1,17 +1,9 @@
 ---
-title: IDAH Community Archiving Template
+title: Mi Familia: Exploring Cuban Identity Across Borders
 layout: homepage
 permalink: /
 ---
 
-The Archiving Out of the Box team supports community storytelling with a  digital archiving and storytelling kit. This demo site has examples of 3 different kinds of community contributions: scanned/screencaptured documents, photos of objects, and vidoes.
+My parents were born in Cuba. They emigrated to the United States in the 1960s as adolescents, in response to the Cuban Revolution that was brewing since early 1950s and came to fruition 1959. Revolutionary Cuba, they learned was not a Cuba that valued freedom of speech and self-determination. In the pursuit of liberty and opportunity, my parents, and their parents left their home and made a new one in Miami, Florida. 
 
-Visit our main site for information on how to build relationships, hold community-storytelling collection events, build the collection using our template site, and use community stories for practical community-improvement projects.
-
-Our team got its start at the [Institute for Digital Arts and Humanities](https://idah.indiana.edu/) at Indiana University Bloomington and is now funded by the [Digital Justice Development Grant program at the American Council on Learned Societies](https://www.acls.org/recent-fellows/?program_id=40090&_project_year=2024).
-
-Principal Project Team:
-- Michelle Dalmau
-- Vanessa Elias
-- Kalani Craig
-- Jazma Sutton
+This digital archive is meant to not only document their histories, but also to create a space in which I explore my Cuban identity, caught between two countries and rife with propaganda on both sides. There is no one way. No one truth. As people in Cuba / from Cuba are known to say, “it’s complicated.” This is my attempt to surface the contradictions and embrace them as I navigate two worlds. 
