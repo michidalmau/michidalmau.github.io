@@ -6,7 +6,7 @@ author:	C. Dalmau
 contributor: M. Dalmau
 group:			
 creator:			
-externalurl:			
+externalurl: https://iu.mediaspace.kaltura.com/media/t/1_5c8y82ni			
 embedurl:	https://iu.mediaspace.kaltura.com/media/t/1_5c8y82ni
 creationdate:	2001
 type:	Field recordings
