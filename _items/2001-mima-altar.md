@@ -6,8 +6,8 @@ author:	C. Dalmau
 contributor: M. Dalmau
 group:			
 creator:			
-externalurl: https://iu.mediaspace.kaltura.com/media/t/1_5c8y82ni			
-embedurl:	https://iu.mediaspace.kaltura.com/media/t/1_5c8y82ni
+externalurl: 
+embedurl:	https://youtu.be/-Kf7hj5exbg
 creationdate:	2001
 type:	Video
 shortdesc:	Mima shows me her altar where she venerates family members who have died. This is in 2001 right before they were to sell their long-time home in Hialeah, my childhood second-home, and move in with one of and eventually each of their kids over the last years of their lives. 
