@@ -1,7 +1,7 @@
 ---
 layout:	item
 format:	media
-title:	Mima and her altar
+title:	Mima and Her altar
 author:	C. Dalmau
 contributor: M. Dalmau
 group:			
@@ -10,7 +10,7 @@ externalurl:
 embedurl:	https://youtu.be/-Kf7hj5exbg
 creationdate:	2001
 type:	Video
-shortdesc:	Mima shows me her altar where she venerates family members who have died. This is in 2001 right before they were to sell their long-time home in Hialeah, my childhood second-home, and move in with one of and eventually each of their kids over the last years of their lives. 
+shortdesc:	Altars have always been the way my grandmother honors family who have died. This is just one of many incarnations of her altar, but this one would be the last one in her long-time home, and my childhood second-home. In this clip she's walking me through aspects of the altar. Spoiler: she's very excited about the flowers! 
 categories:	[Rituals]
 tags:	[Altar, Saints, Death]
 teammember:			
