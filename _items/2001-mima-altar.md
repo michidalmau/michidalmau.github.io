@@ -6,7 +6,6 @@ author: C. Dalmau
 contributor: M. Dalmau
 group:
 creator:			
-externalurl:
 embedurl: https://youtu.be/-Kf7hj5exbg
 creationdate: 2001
 type: Video
