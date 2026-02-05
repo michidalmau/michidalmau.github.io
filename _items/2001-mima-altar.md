@@ -5,7 +5,8 @@ title: Mima and Her altar
 author: C. Dalmau
 contributor: M. Dalmau
 group:
-creator:			
+creator:
+externalurl: https://youtu.be/-Kf7hj5exbg
 embedurl: https://youtu.be/-Kf7hj5exbg
 creationdate: 2001
 type: Video
