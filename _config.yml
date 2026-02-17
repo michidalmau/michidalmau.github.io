@@ -4,7 +4,7 @@
 #---------------------
 # THEME. Leave Lines 4-6 alone.
 #---------------------
-remote_theme: kalanicraig/digitalarcplatform@v1.0.1
+remote_theme: kalanicraig/digitalarcplatform@v1.0.2 #updated version on 2/17/2026 so video embed could work
 repository: 'michidalmau/michidalmau' # change this to your repository name
 
 ##############################################
